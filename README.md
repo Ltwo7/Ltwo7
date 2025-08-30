@@ -81,6 +81,7 @@ Me chamo Leonardo Rodrigues Santos, tenho 19 anos e sou natural de São Paulo. A
       align="left" 
       alt="GitHub Stats" 
       height="200" 
+      style="padding-right: 10px;" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ltwo7&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
