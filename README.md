@@ -2,7 +2,7 @@
 
 **`Desenvolvedor de Software`**
 
-Me chamo Leonardo Rodrigues Santos, tenho 19 anos e sou natural de São Paulo. Estou cursando Ciência da computação e ultimamente estou direcionando meus estudos na linguagem Java com orientação a objetos e Springboot. Estou em busca do meu primeiro estágio na área de tecnologia.
+Me chamo Leonardo Rodrigues Santos, tenho 19 anos e sou natural de São Paulo. Estou cursando Ciência da computação e direcionando meus estudos na linguagem Java com orientação a objetos e Springboot. Estou em busca do meu primeiro estágio na área de tecnologia.
 
 ---
 
